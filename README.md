@@ -23,7 +23,8 @@ that automatically wrap content across multiple rows.
 
 ## 📱 Demo
 
-_Add your demo GIF or screenshots here_
+<img width="800" height="420" alt="ScreenRecording2026-05-02at7 52 25PM-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c805863b-5f00-4319-8f6e-1186e6af741e" />
+
 
 ------------------------------------------------------------------------
 
